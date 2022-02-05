@@ -2,7 +2,7 @@
   "name": "my-react-learning-repo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stanislava001.github.io/my-react-learning-repo/",
+  "homepage": "https://stanislava001.github.io/my-react-learning-repo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
